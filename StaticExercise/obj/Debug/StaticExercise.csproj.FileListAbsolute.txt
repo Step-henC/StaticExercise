@@ -1,0 +1,8 @@
+C:\Users\steve\repos\StaticExercise\StaticExercise\bin\Debug\StaticExercise.exe.config
+C:\Users\steve\repos\StaticExercise\StaticExercise\bin\Debug\StaticExercise.exe
+C:\Users\steve\repos\StaticExercise\StaticExercise\bin\Debug\StaticExercise.pdb
+C:\Users\steve\repos\StaticExercise\StaticExercise\obj\Debug\StaticExercise.csproj.AssemblyReference.cache
+C:\Users\steve\repos\StaticExercise\StaticExercise\obj\Debug\StaticExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\steve\repos\StaticExercise\StaticExercise\obj\Debug\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\steve\repos\StaticExercise\StaticExercise\obj\Debug\StaticExercise.exe
+C:\Users\steve\repos\StaticExercise\StaticExercise\obj\Debug\StaticExercise.pdb
